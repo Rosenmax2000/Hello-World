@@ -1,4 +1,20 @@
 p {
   color: red;
   background-color: #999;
+  margin-right: 10cm;
+  margin-left: 10cm;
+  text-align: center;
+}
+h1{
+  color: blue;
+  margin-right: 10cm;
+  margin-left: 10cm;
+  text-align: center;
+}
+h2{
+  color: purple;
+  background-color: yellow;
+  margin-right: 10cm;
+  margin-left: 10cm;
+  text-align: center;
 }
