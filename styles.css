@@ -18,3 +18,17 @@ h2{
   margin-left: 10cm;
   text-align: center;
 }
+.color-box1{
+  display: block;
+  width: 100px;
+  height: 100px;
+  margin: 2px;
+  background-color: #FFFF00;
+}
+.color-box2{
+  display: block;
+  width: 100px;
+  height: 100px;
+  margin: 2px;
+  background-color: #000000;
+}
